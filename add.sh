@@ -1,5 +1,5 @@
 set -xe
-bkp index.xml
+# bkp index.xml
 now=`date`
 now=`date -j -f "%a %b %d %T %Z %Y" "$now" "+%s"`
 adj="$now"
