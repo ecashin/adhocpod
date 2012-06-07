@@ -19,7 +19,7 @@ i
 <item>
 <title>$hb</title>
 <enclosure
-url="http://127.0.0.1/~ecashin/ad-hoc/$ub" length="$len" type="audio/mpeg"/>
+url="http://127.0.0.1/~$LOGNAME/ad-hoc/$ub" length="$len" type="audio/mpeg"/>
 <pubDate>$date</pubDate>
 </item>
 .
